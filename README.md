@@ -3,9 +3,9 @@ Entity Commonsense Representation for Neural Abstractive Summarization
 
 This code was used in the experiments of the research paper
 
-**Reinald Kim Amplayo**<sup>*</sup>, Seonjae Lim<sup>*</sup> and Seung-won Hwang. **Entity Commonsense Representation for Neural Abstractive Summarization**. _NAACL_, 2018.
+**Reinald Kim Amplayo**<sup>\*</sup>, Seonjae Lim<sup>\*</sup> and Seung-won Hwang. **Entity Commonsense Representation for Neural Abstractive Summarization**. _NAACL_, 2018.
 
-* equal contributions
+\*equal contributions
 
 You will need the following data saved in a separate `data` folder:
 - `word_vecs.txt`: word vectors (we used GloVe vectors which can be downloaded here: http://nlp.stanford.edu/data/glove.840B.300d.zip)

@@ -16,9 +16,11 @@ You will need the following data saved in a separate `data` folder:
 To run the code, several parameters are needed to be set in the `src/summarization.py`. Refer to our paper to determine the recommended values.
 
 To train the model, execute the following code:
+
 `python script/train.py`
 
 Similarly, to test the model, execute the following code (although test will automatically come after training is done):
+
 `python script/test.py`
 
 To cite the paper/code, please use this BibTex:

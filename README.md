@@ -1,7 +1,7 @@
 # Entity2Topic
 Entity Commonsense Representation for Neural Abstractive Summarization
 
-This code was used in the experiments of the research paper
+This TensorFlow code was used in the experiments of the research paper
 
 **Reinald Kim Amplayo**<sup>\*</sup>, Seonjae Lim<sup>\*</sup> and Seung-won Hwang. **Entity Commonsense Representation for Neural Abstractive Summarization**. _NAACL_, 2018.
 

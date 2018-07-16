@@ -27,7 +27,7 @@ Similarly, to test the model, execute the following code (although test will aut
 To cite the paper/code, please use this BibTex:
 
 ```
-@inproceedings{amplayo2017entity,
+@inproceedings{amplayo2018entity,
 	Author = {Reinald Kim Amplayo and Seonjae Lim and Seung-won Hwang},
 	Booktitle = {NAACL},
 	Location = {New Orleans, LA},
